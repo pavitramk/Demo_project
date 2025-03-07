@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="11" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-03-05T19:07:20 IST" name="Suite" finished-at="2025-03-05T19:09:15 IST" duration-ms="115103">
+    <groups>
+    </groups>
+    <test started-at="2025-03-05T19:07:20 IST" name="Test" finished-at="2025-03-05T19:09:15 IST" duration-ms="115103">
+      <class name="TestNG_vtigerApp.CreateCampaign">
+        <test-method is-config="true" signature="BC()[pri:0, instance:TestNG_vtigerApp.CreateCampaign@2e377400]" started-at="2025-03-05T19:08:39 IST" name="BC" finished-at="2025-03-05T19:08:41 IST" duration-ms="2049" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:TestNG_vtigerApp.CreateCampaign@2e377400]" started-at="2025-03-05T19:08:41 IST" name="BM" finished-at="2025-03-05T19:08:47 IST" duration-ms="6089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="createCampaignsTest()[pri:0, instance:TestNG_vtigerApp.CreateCampaign@2e377400]" started-at="2025-03-05T19:08:47 IST" name="createCampaignsTest" finished-at="2025-03-05T19:09:12 IST" duration-ms="25607" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createCampaignsTest -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:TestNG_vtigerApp.CreateCampaign@2e377400]" started-at="2025-03-05T19:09:12 IST" name="AM" finished-at="2025-03-05T19:09:15 IST" duration-ms="2391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:TestNG_vtigerApp.CreateCampaign@2e377400]" started-at="2025-03-05T19:09:15 IST" name="AC" finished-at="2025-03-05T19:09:15 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+      </class> <!-- TestNG_vtigerApp.CreateCampaign -->
+      <class name="TestNG_vtigerApp.CreateOrganization">
+        <test-method is-config="true" signature="BC()[pri:0, instance:TestNG_vtigerApp.CreateOrganization@561b6512]" started-at="2025-03-05T19:07:59 IST" name="BC" finished-at="2025-03-05T19:08:01 IST" duration-ms="2014" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:TestNG_vtigerApp.CreateOrganization@561b6512]" started-at="2025-03-05T19:08:01 IST" name="BM" finished-at="2025-03-05T19:08:07 IST" duration-ms="6054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="createOrganization()[pri:0, instance:TestNG_vtigerApp.CreateOrganization@561b6512]" started-at="2025-03-05T19:08:07 IST" name="createOrganization" finished-at="2025-03-05T19:08:35 IST" duration-ms="28726" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrganization -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:TestNG_vtigerApp.CreateOrganization@561b6512]" started-at="2025-03-05T19:08:35 IST" name="AM" finished-at="2025-03-05T19:08:38 IST" duration-ms="2896" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:TestNG_vtigerApp.CreateOrganization@561b6512]" started-at="2025-03-05T19:08:38 IST" name="AC" finished-at="2025-03-05T19:08:39 IST" duration-ms="222" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+      </class> <!-- TestNG_vtigerApp.CreateOrganization -->
+      <class name="TestNG_vtigerApp.CreateProduct">
+        <test-method is-config="true" signature="BS()[pri:0, instance:TestNG_vtigerApp.CreateProduct@8c3b9d]" started-at="2025-03-05T19:07:20 IST" name="BS" finished-at="2025-03-05T19:07:20 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BS -->
+        <test-method is-config="true" signature="BT()[pri:0, instance:TestNG_vtigerApp.CreateProduct@8c3b9d]" started-at="2025-03-05T19:07:20 IST" name="BT" finished-at="2025-03-05T19:07:20 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BT -->
+        <test-method is-config="true" signature="BC()[pri:0, instance:TestNG_vtigerApp.CreateProduct@8c3b9d]" started-at="2025-03-05T19:07:20 IST" name="BC" finished-at="2025-03-05T19:07:23 IST" duration-ms="3460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BC -->
+        <test-method is-config="true" signature="BM()[pri:0, instance:TestNG_vtigerApp.CreateProduct@8c3b9d]" started-at="2025-03-05T19:07:23 IST" name="BM" finished-at="2025-03-05T19:07:30 IST" duration-ms="6375" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BM -->
+        <test-method signature="Createproductpage()[pri:0, instance:TestNG_vtigerApp.CreateProduct@8c3b9d]" started-at="2025-03-05T19:07:30 IST" name="Createproductpage" finished-at="2025-03-05T19:07:56 IST" duration-ms="26165" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Createproductpage -->
+        <test-method is-config="true" signature="AM()[pri:0, instance:TestNG_vtigerApp.CreateProduct@8c3b9d]" started-at="2025-03-05T19:07:56 IST" name="AM" finished-at="2025-03-05T19:07:58 IST" duration-ms="2510" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AM -->
+        <test-method is-config="true" signature="AC()[pri:0, instance:TestNG_vtigerApp.CreateProduct@8c3b9d]" started-at="2025-03-05T19:07:58 IST" name="AC" finished-at="2025-03-05T19:07:59 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AC -->
+        <test-method is-config="true" signature="AT()[pri:0, instance:TestNG_vtigerApp.CreateProduct@8c3b9d]" started-at="2025-03-05T19:09:15 IST" name="AT" finished-at="2025-03-05T19:09:15 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AT -->
+        <test-method is-config="true" signature="AS()[pri:0, instance:TestNG_vtigerApp.CreateProduct@8c3b9d]" started-at="2025-03-05T19:09:15 IST" name="AS" finished-at="2025-03-05T19:09:15 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AS -->
+      </class> <!-- TestNG_vtigerApp.CreateProduct -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

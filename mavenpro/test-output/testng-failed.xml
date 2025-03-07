@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Test(failed)">
+    <classes>
+      <class name="TestNG_vtigerApp.CreateOrganization">
+        <methods>
+          <include name="AS"/>
+          <include name="BT"/>
+          <include name="AC"/>
+          <include name="AT"/>
+          <include name="BS"/>
+          <include name="BC"/>
+          <include name="createOrganization"/>
+          <include name="BM"/>
+          <include name="AM"/>
+        </methods>
+      </class> <!-- TestNG_vtigerApp.CreateOrganization -->
+      <class name="TestNG_vtigerApp.CreateProduct">
+        <methods>
+          <include name="AS"/>
+          <include name="BT"/>
+          <include name="AC"/>
+          <include name="AT"/>
+          <include name="BS"/>
+          <include name="BC"/>
+          <include name="Createproductpage"/>
+          <include name="BM"/>
+          <include name="AM"/>
+        </methods>
+      </class> <!-- TestNG_vtigerApp.CreateProduct -->
+      <class name="TestNG_vtigerApp.CreateCampaign">
+        <methods>
+          <include name="createCampaignsTest"/>
+          <include name="AS"/>
+          <include name="BT"/>
+          <include name="AC"/>
+          <include name="AT"/>
+          <include name="BS"/>
+          <include name="BC"/>
+          <include name="BM"/>
+          <include name="AM"/>
+        </methods>
+      </class> <!-- TestNG_vtigerApp.CreateCampaign -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
