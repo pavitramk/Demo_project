@@ -20,7 +20,7 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 
 public class CreateCampaignWithProduct {
 	public static void main(String[] args) throws Throwable {
-
+//pulling
 		FileInputStream fis = new FileInputStream("./src/test/resources/browser.properties");
 
 		// step2:- load all the keys from properties file
